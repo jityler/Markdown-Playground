@@ -67,5 +67,6 @@ You can link directly to a section in a rendered file by hovering over the secti
 You can make an unordered list by preceding one or more lines of text with -, *, or +.  
 
 **Format the following text into a footnote:**
-Main text: Alex Wingate went to William and Mary. [^1] Footnote text: William and Mary is a university in Williamsburg, VA founded in 1693.  
+Main text: Alex Wingate went to William and Mary.[^1]
+[^1]William and Mary is a university in Williamsburg, VA founded in 1693.  
 Bonus: make ["William and Mary"](https://www.wm.edu/) a hyperlink to W&M's website.
