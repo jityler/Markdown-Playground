@@ -61,7 +61,7 @@ Two Tildes.
 You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ).  
 
 **How do you link to a section in the same or another markdown file?**
-You can link directly to a section in a rendered file by hovering over the section heading to expose .  
+You can link directly to a section in a rendered file by hovering over the section heading to expose . (link)[
 
 **What are the three possible symbols for indicating an unordered list?**
 You can make an unordered list by preceding one or more lines of text with -, *, or +.  
